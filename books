@@ -1,1 +1,3 @@
 -- Hi Henong. This is a test :)
+CREATE DATABASE bookshop;
+USE bookshop;
